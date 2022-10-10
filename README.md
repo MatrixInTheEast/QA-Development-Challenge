@@ -4,7 +4,7 @@
 
 2. Open the 'QA-Development-Challenge-main\Eclipse Workspace\eclipse-workspace' using the Eclipse IDE.
 
-3. Right-click on 'QAChallenge' -> In 'Java Build Path', select 'Classpath' and click on 'Add External JARS'
+3. Right-click on 'QAChallenge' ->  'Properties' -> In 'Java Build Path', select 'Classpath' and click on 'Add External JARS'
 
 4. Select to Add 'selenium-server-standalone-3.141.59.jar' and 'testng-7.4.0.jar'
 
